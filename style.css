@@ -1,0 +1,38 @@
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items:center;
+    margin:100px 590px 100px 590px;
+    border-radius: 20px ;
+    padding:20px;
+}
+
+.header_5{
+    
+    color: #92979F;
+}
+img{
+    border-radius: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+    width:288px;
+    height:288px;
+}
+.header{
+   text-align:center;
+   padding-right: 15px;
+   padding-left: 15px;
+}
+body{
+    background-color: gray;
+    font-family: "Source Serif 4", serif;
+}
+
